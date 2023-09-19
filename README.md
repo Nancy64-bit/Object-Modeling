@@ -1,5 +1,3 @@
-My apologies for the abrupt ending. Here's the completed README.md for your Object Modeling project:
-
 # Object Modeling - Problem Solving and Design Mastery
 
 Welcome to the Object Modeling repository, where I showcase my problem-solving skills and expertise in software design. This project encompasses a range of skills and experiences, from understanding complex problems to designing efficient solutions.
@@ -8,8 +6,8 @@ Welcome to the Object Modeling repository, where I showcase my problem-solving s
 
 - **Project Date:** April 2023
 - **Technologies:** Object-Oriented Design, Unit Testing, Design Patterns, SOLID principles, Clean Architecture, Interfaces, Java
-- **Developer:** [Your Name]
-- **Contact:** [Your Email Address]
+- **Developer:** Nandini Chauhan
+- **Contact:** chauhannandini234@gmail.com
 
 ## Project Highlights
 
